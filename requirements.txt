@@ -3,4 +3,3 @@ ipywidgets
 Pattern
 pandas
 numpy
-json
