@@ -3,3 +3,6 @@ ipywidgets
 Pattern
 pandas
 numpy
+regex
+re
+bs4
