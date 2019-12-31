@@ -1,6 +1,6 @@
 catboost
 ipywidgets
-pattern.text.nl
+Pattern
 pandas
 numpy
 json
