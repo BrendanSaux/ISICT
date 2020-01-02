@@ -5,3 +5,9 @@ pandas
 numpy
 regex
 bs4
+sklearn
+seaborn
+shap
+hyperopt
+dython
+matplotlib
