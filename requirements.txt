@@ -12,3 +12,4 @@ hyperopt
 dython
 matplotlib
 tweepy
+emoji
