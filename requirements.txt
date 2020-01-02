@@ -11,3 +11,4 @@ shap
 hyperopt
 dython
 matplotlib
+tweepy
