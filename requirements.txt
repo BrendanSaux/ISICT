@@ -12,4 +12,4 @@ hyperopt
 dython
 matplotlib
 tweepy
-emoji
+vaderSentiment
